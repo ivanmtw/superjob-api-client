@@ -1,0 +1,21 @@
+{
+    "name": "ivanmtw/superjob-api-client",
+    "type": "library",
+    "description": "Simple SuperJob.ru API clent",
+    "keywords": [
+    	"superjob",
+    	"api"
+    ],
+    "homepage": "https://github.com/ivanmtw/superjob-api-client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Matveev",
+            "email": "ivanmtw@gmail.com",
+            "homepage": "https://github.com/ivanmtw/"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
