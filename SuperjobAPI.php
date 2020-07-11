@@ -5,7 +5,7 @@ class SuperjobAPI
     const API_URI = 'https://api.superjob.ru/2.0/';
     const OAUTH_URL = 'https://api.superjob.ru/2.0/oauth2/';
 
-    const OAUTH_AUTHORIZE_URL = 'http://www.superjob.ru/authorize';
+    const OAUTH_AUTHORIZE_URL = 'https://www.superjob.ru/authorize/';
 
     /**
      * {@link setTimeout()}
