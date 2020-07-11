@@ -1,5 +1,4 @@
-superjob-api-client
-===================
+# PHP клиент для API Superjob.ru
 
 Простой клиент к https://api.superjob.ru/
 
@@ -7,3 +6,11 @@ superjob-api-client
 Кроме того, в примерах нужно поправить контстанты CLIENT_ID и CLIENT_SECRET (папка example/)
 
 Добавлен пример для API работодателя.
+
+## Установка
+
+Рекомендуемый способ установки [Composer](https://getcomposer.org/).
+
+```bash
+composer require ivanmtw/superjob-api-client
+```
